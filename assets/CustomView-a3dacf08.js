@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as o,g as a,t as n,d as _}from"./index-8da2a632.js";const c={data(){return{data:{}}},mounted(){}},r={class:"about"},d=_("h1",null,"來杯調酒",-1);function i(u,l,p,m,e,f){return s(),o("div",r,[d,a(" "+n(e.data),1)])}const h=t(c,[["render",i]]);export{h as default};
